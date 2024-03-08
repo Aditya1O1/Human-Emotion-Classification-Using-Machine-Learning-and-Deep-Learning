@@ -1,2 +1,2 @@
-# Human-Emotion-Classification-Using-Machine-Learning-and-Deep-Learning
-Led project on human emotion classification with ML &amp; DL techniques. Developed classifiers using sentiment analysis &amp; advanced algorithms. Expertise in model development, data analysis, interdisciplinary collaboration. Insights at tech-emotion intersection.
+
+"Led an exploratory project delving into human emotion classification using machine learning and deep learning techniques. Developed emotion classifiers from scratch, leveraging various models and approaches, including sentiment analysis and deep learning applications. The project aimed to uncover the intricate nuances of human feelings, offering valuable insights into the intersection of technology and emotions."
